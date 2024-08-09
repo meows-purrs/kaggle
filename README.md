@@ -1,3 +1,6 @@
+https://www.kaggle.com/code/abhirajrana165/logistic-regression-92
+
+
 Description
 
 This dataset contains 10,962 houses for rent with 13 different features.
